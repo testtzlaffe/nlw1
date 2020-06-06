@@ -59,7 +59,7 @@ const Detail = () => {
 
   function handleWhatsapp() {
     Linking.openURL(
-      `whatsapp://send?phone=${data.point.whatsapp}&text=Tenho interessa na coleta de resíduos`
+      `whatsapp://send?phone=${data.point.whatsapp}&text=Tenho interesse na coleta de resíduos`
     );
   }
 
