@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/web-react-9cf">
     <img src="https://img.shields.io/badge/mobile-react%20native-blue">
     <img src="https://img.shields.io/badge/server-nodejs-success">
-    <img src="https://img.shields.io/badge/%3C%3E-typescript-blueviolet"
+    <img src="https://img.shields.io/badge/%3C%3E-typescript-blueviolet">
 </div>
 
 ## :bookmark_tabs: Índice
