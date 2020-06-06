@@ -93,7 +93,7 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 
 ```
 
-<a id="run"></a>
+<a id="contato"></a>
 
 ## :coffee: Contato
 
