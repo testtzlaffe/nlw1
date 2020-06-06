@@ -5,19 +5,19 @@
     <br>
 </h3>
 
-# Índice
+## Índice
 
-- [Sobre os estudos e o projeto](#sobre)
-- [Tecnologias Utilizadas](#tecnologias)
-- [Como Usar](#como-usar)
+- [Sobre](#sobre)
+- [Tecnologias](#tecnologias)
+- [Rodando o projeto](#run)
 
 <a id="sobre"></a>
 
-## :recycle: Projeto Ecoleta
+## :recycle: Sobre Projeto Ecoleta
 
 <strong>Ecoleta</strong> é um app web e mobile. Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
 
-Esta versão foi desenvolvida acompanhando as cinco aulas da trilha <strong>Booster</strong> da <strong>Next Level Week #1</strong>. O tema do app foi proposto pela [Rocketseat](https://rocketseat.com.br/) em comemoração à Semana do Meio Ambiente.
+Esta versão foi desenvolvida acompanhando as cinco aulas da trilha <strong>Booster</strong> da <strong>Next Level Week #1</strong>. O tema do app foi proposto pela **[Rocketseat](https://rocketseat.com.br/)** em comemoração à Semana do Meio Ambiente.
 
 O projeto consiste em um desenvolvimento <strong>fullstak</strong> (front-end web, back-end e mobile).
 
@@ -47,20 +47,22 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 - [React-icons]()
 - [Expo]()
 
-## :fire: Como usar
+<a id="run"></a>
 
-- ### **Pré-requisitos**
+## :running: Rodando o projeto
 
-  - **[Node.js](https://nodejs.org/en/)** instalado na máquina
-  - Um gerenciador de pacotes: **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+1. Pré-requisitos:
 
-1. Clonar o repositório :
+- **[Node.js](https://nodejs.org/en/)** instalado na máquina
+- Um gerenciador de pacotes: **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+
+2. Clonar o repositório:
 
 ```sh
   $ git clone https://github.com/testtzlaffe/nlw1.git
 ```
 
-2. Rodar os ambientes de desenvolvimento do app:
+3. Rodar os ambientes de desenvolvimento do app:
 
 ```sh
   # Instalar as bibliotecas e as dependências
