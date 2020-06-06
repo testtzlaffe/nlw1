@@ -6,6 +6,15 @@
     
 </h3>
 
+<div align="center">
+
+![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][https://img.shields.io/badge/web-react-blue] ![React_Native_Badge][https://img.shields.io/badge/mobile-react%20native-blueviolet] ![NodeJS_Badge][https://img.shields.io/badge/server-nodejs-important] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+<a href="https://rocketseat.com.br">
+<img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+</a>
+
+</div>
+
 ## :bookmark_tabs: Índice
 
 - [Sobre](#sobre)
