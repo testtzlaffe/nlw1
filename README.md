@@ -5,9 +5,9 @@
     <br>
     
 </h3>
-
+<br>
 <div align="center">
-    <img src="https://img.shields.io/badge/web-react-9cf">
+    <img src="https://img.shields.io/badge/web-react-blue">
     <img src="https://img.shields.io/badge/mobile-react%20native-blue">
     <img src="https://img.shields.io/badge/server-nodejs-success">
     <img src="https://img.shields.io/badge/%3C%3E-typescript-blueviolet">
@@ -58,8 +58,7 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 
 1. Pré-requisitos:
 
-- **[Node.js](https://nodejs.org/en/)** instalado na máquina
-- Um gerenciador de pacotes: **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+**[Node.js](https://nodejs.org/en/)**, **[Git](https://git-scm.com/)** e um gerenciador de pacotes(**[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**) instalados na máquina.
 
 2. Clonar o repositório:
 
@@ -95,8 +94,5 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 ## :coffee: Contato
 
 <h4>
-    Gostou do projeto? Fique a vontade para mandar issues, pull requests, críticas ou sugestões. Se quiser iniciar um papo, conversar sobre este trabalho ou qualquer outro assunto, segue link para meu Linkedin:
+    Gostou do projeto? Fique a vontade para mandar issues, pull requests, críticas ou sugestões. Se quiser iniciar um papo, conversar sobre este trabalho ou qualquer outro assunto, me chame no <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Linkedin</a>.
 </h4>
-<h4>
-    <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Christian Testtzlaffe Alpoim</a>
-<h4>
