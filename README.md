@@ -6,6 +6,8 @@
     
 </h3>
 
+<img src="https://img.shields.io/badge/web-react-blue">
+
 ## :bookmark_tabs: Índice
 
 - [Sobre](#sobre)
