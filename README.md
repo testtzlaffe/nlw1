@@ -15,11 +15,9 @@
 
 ## :recycle: Sobre Projeto Ecoleta
 
-<strong>Ecoleta</strong> é um app web e mobile. Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
+<strong>Ecoleta</strong> é um projeto de desenvolvimento <strong>fullstack</strong> (API REST + Web + Mobile). Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
 
 Esta versão foi desenvolvida acompanhando as cinco aulas da trilha <strong>Booster</strong> da <strong>Next Level Week #1</strong>. O tema do app foi proposto pela **[Rocketseat](https://rocketseat.com.br/)** em comemoração à Semana do Meio Ambiente.
-
-O projeto consiste em um desenvolvimento <strong>fullstak</strong> (front-end web, back-end e mobile).
 
 Professor: **[Diego Fernandes](https://github.com/diego3g)**
 
@@ -74,15 +72,15 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 
   # Iniciar o servidor
   $ cd server
-  $ npm run dev ou yarn dev
+  $ npm run dev || yarn dev
 
   # Iniciar a versão mobile
   $ cd mobile
-  $ npm start ou yarn start
+  $ npm start || yarn start
 
   # Iniciar a versão web
   $ cd web
-  $ npm start ou yarn start
+  $ npm start || yarn start
 
 ```
 
