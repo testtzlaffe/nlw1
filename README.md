@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/server-nodejs-success">
     <img src="https://img.shields.io/badge/%3C%3E-typescript-blueviolet">
 </div>
+<br>
 
 ## :bookmark_tabs: Índice
 
@@ -95,4 +96,10 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 
 <h4>
     Gostou do projeto? Fique a vontade para mandar issues, pull requests, críticas ou sugestões. Se quiser iniciar um papo, conversar sobre este trabalho ou qualquer outro assunto, me chame no <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Linkedin</a>.
+</h4>
+
+---
+
+<h4 align="center">
+    Desenvolvido com 💜 por <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Christian Testtzlaffe Alpoim</a>
 </h4>
