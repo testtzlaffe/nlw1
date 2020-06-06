@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="500px" src="/web/src/assets/WebScreen.png">
+    <img alt="Imagem da aplicação" src="/web/src/assets/WebScreen.png">
     <br><br>
     <b>Projeto desenvolvido na Next Level Week #1 da Rocketseat</b>  
     <br>
@@ -23,7 +23,7 @@
 
 ## :recycle: Sobre Projeto Ecoleta
 
-<strong>Ecoleta</strong> é um projeto de desenvolvimento <strong>fullstack</strong> (API REST + Web + Mobile). Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
+<strong>Ecoleta</strong> é um projeto de desenvolvimento <strong>fullstack</strong> (API REST + Web front-end + Mobile). Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
 
 Esta versão foi desenvolvida acompanhando as cinco aulas da trilha <strong>Booster</strong> da <strong>Next Level Week #1</strong>. O tema do app foi proposto pela **[Rocketseat](https://rocketseat.com.br/)** em comemoração à Semana do Meio Ambiente.
 
@@ -72,7 +72,7 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
   # Instalar as bibliotecas e as dependências
   $ npm install (ou yarn install)
 
-  ## Criar e popular o banco de dados
+  # Criar e popular o banco de dados
   $ cd server
   $ npm run knex:migrate
   $ npm run knex:seed
