@@ -6,7 +6,11 @@
     
 </h3>
 
-<img src="https://img.shields.io/badge/web-react-blue">
+<div align="center">
+    <img src="https://img.shields.io/badge/web-react-blue">
+    <img src="https://img.shields.io/badge/mobile-react%20native-blueviolet">
+    <img src="https://img.shields.io/badge/server-nodejs-important">
+</div>
 
 ## :bookmark_tabs: Índice
 
