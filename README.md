@@ -13,9 +13,9 @@
 
 <a id="sobre"></a>
 
-## ::recycle: Sobre
+## :recycle: Projeto Ecoleta
 
-<strong>Ecoleta</strong> é um app web e mobile é um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
+<strong>Ecoleta</strong> é um app web e mobile. Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
 
 Esta versão foi desenvolvida acompanhando as cinco aulas da trilha <strong>Booster</strong> da <strong>Next Level Week #1</strong>. O tema do app foi proposto pela [Rocketseat](https://rocketseat.com.br/) em comemoração à Semana do Meio Ambiente.
 
@@ -25,7 +25,7 @@ Professor: **[Diego Fernandes](https://github.com/diego3g)**
 
 <a id="tecnologias"></a>
 
-## :coffee: Tecnologias
+## :computer: Tecnologias
 
 O projeto foi desenvolvido utilizando as tecnologias:
 
@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as tecnologias:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-Principais bibliotecas utilizadas (lista completa no arquivo package.json na raíz de cada uma das três pastas - [server](), [web]() e [mobile]()):
+Principais bibliotecas utilizadas (lista completa nas dependências listadas no arquivo package.json na raíz de cada uma das três pastas - [server](/server/package.json), [web](web/package.json) e [mobile](mobile/package.json)):
 
 - [Express]()
 - [Knex]()
@@ -85,10 +85,8 @@ Principais bibliotecas utilizadas (lista completa no arquivo package.json na ra�
 
 ```
 
----
+## :coffee: Contato
 
-## :coffee: Linkedin
-
-<h4 align="center">
+<h4>
     Gostou do projeto? Fique a vontade para mandar issues, pull requests, e se quiser iniciar um papo, conversar sobre este trabalho ou qualquer outro assunto, segue link para meu Linkedin:  <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Christian Testtzlaffe Alpoim</a>
 </h4>
