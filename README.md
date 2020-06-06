@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="200px" src="/web/src/assets/logo.svg">
+    <img alt="Logo" title="#logo" width="500px" src="/web/src/assets/WebScreen.png">
     <br><br>
     <b>Projeto desenvolvido na Next Level Week #1 da Rocketseat</b>  
     <br>
@@ -58,7 +58,7 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 
 1. Pré-requisitos:
 
-**[Node.js](https://nodejs.org/en/)**, **[Git](https://git-scm.com/)** e um gerenciador de pacotes(**[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**) instalados na máquina.
+- **[Node.js](https://nodejs.org/en/)**, **[Git](https://git-scm.com/)** e um gerenciador de pacotes (**[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**) instalados na máquina.
 
 2. Clonar o repositório:
 
