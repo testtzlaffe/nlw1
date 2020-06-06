@@ -5,7 +5,7 @@
     <br>
 </h3>
 
-## Índice
+## :bookmark_tabs: Índice
 
 - [Sobre](#sobre)
 - [Tecnologias](#tecnologias)
@@ -90,5 +90,5 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 ## :coffee: Contato
 
 <h4>
-    Gostou do projeto? Fique a vontade para mandar issues, pull requests, e se quiser iniciar um papo, conversar sobre este trabalho ou qualquer outro assunto, segue link para meu Linkedin:  <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Christian Testtzlaffe Alpoim</a>
+    Gostou do projeto? Fique a vontade para mandar issues, pull requests, críticas ou sugestões. Se quiser iniciar um papo, conversar sobre este trabalho ou qualquer outro assunto, segue link para meu Linkedin:  <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Christian Testtzlaffe Alpoim</a>
 </h4>
