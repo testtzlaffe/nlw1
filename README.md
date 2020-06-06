@@ -36,16 +36,15 @@ O projeto foi desenvolvido utilizando as tecnologias:
 
 Principais bibliotecas utilizadas (lista completa nas dependências listadas no arquivo package.json na raíz de cada uma das três pastas - [server](/server/package.json), [web](web/package.json) e [mobile](mobile/package.json)):
 
-- [Express]()
-- [Knex]()
-- [Sqlite3]()
-- [Multer]()
-- [Axios]()
-- [Leaflet]()
-- [React-leaflet]()
-- [React-dropzone]()
-- [React-icons]()
-- [Expo]()
+- [Express](https://expressjs.com/)
+- [Knex](https://knexjs.org)
+- [Sqlite3](https://www.sqlite.org/)
+- [Multer](https://github.com/expressjs/multer)
+- [Axios](https://github.com/axios/axios)
+- [Leaflet](https://leafletjs.com/)
+- [React-dropzone](https://react-dropzone.js.org/)
+- [React-icons](https://react-icons.github.io/react-icons/)
+- [Expo](https://expo.io/)
 
 <a id="run"></a>
 
@@ -90,5 +89,8 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 ## :coffee: Contato
 
 <h4>
-    Gostou do projeto? Fique a vontade para mandar issues, pull requests, críticas ou sugestões. Se quiser iniciar um papo, conversar sobre este trabalho ou qualquer outro assunto, segue link para meu Linkedin:  <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Christian Testtzlaffe Alpoim</a>
+    Gostou do projeto? Fique a vontade para mandar issues, pull requests, críticas ou sugestões. Se quiser iniciar um papo, conversar sobre este trabalho ou qualquer outro assunto, segue link para meu Linkedin:
 </h4>
+<h4>
+    <a href="https://www.linkedin.com/in/christian-testtzlaffe-alpoim/" target="_blank">Christian Testtzlaffe Alpoim</a>
+<h4>
