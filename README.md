@@ -19,6 +19,7 @@
 - [Sobre](#sobre)
 - [Tecnologias](#tecnologias)
 - [Rodando o projeto](#run)
+- [Contato](#contato)
 
 <a id="sobre"></a>
 
@@ -91,6 +92,8 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
   $ npm start (ou yarn start)
 
 ```
+
+<a id="run"></a>
 
 ## :coffee: Contato
 
