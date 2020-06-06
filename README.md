@@ -7,9 +7,10 @@
 </h3>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/web-react-blue">
-    <img src="https://img.shields.io/badge/mobile-react%20native-blueviolet">
-    <img src="https://img.shields.io/badge/server-nodejs-important">
+    <img src="https://img.shields.io/badge/web-react-9cf">
+    <img src="https://img.shields.io/badge/mobile-react%20native-blue">
+    <img src="https://img.shields.io/badge/server-nodejs-success">
+    <img src="https://img.shields.io/badge/%3C%3E-typescript-blueviolet"
 </div>
 
 ## :bookmark_tabs: Índice
