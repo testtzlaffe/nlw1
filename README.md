@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="200px" src="./web/src/assets/logo.png">
+    <img alt="Logo" title="#logo" width="200px" src="web/src/assets/logo.png">
     <br><br>
     <b>Projeto desenvolvido na Next Level Week #1 da Rocketseat</b>  
     <br>
@@ -13,7 +13,7 @@
 
 <a id="sobre"></a>
 
-## :recicle: Sobre
+## ::recicle: Sobre
 
 <strong>Ecoleta</strong> é um app web e mobile é um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
 
