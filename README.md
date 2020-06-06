@@ -3,7 +3,17 @@
     <br><br>
     <b>Projeto desenvolvido na Next Level Week #1 da Rocketseat</b>  
     <br>
+    
 </h3>
+
+<div align="center">
+
+![GitHub issues][github_issues_badge] ![GitHub][repository_license_badge] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
+<a href="https://rocketseat.com.br">
+<img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+</a>
+
+</div>
 
 ## :bookmark_tabs: Índice
 
@@ -63,7 +73,7 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 
 ```sh
   # Instalar as bibliotecas e as dependências
-  $ npm install
+  $ npm install (ou yarn install)
 
   ## Criar e popular o banco de dados
   $ cd server
@@ -72,15 +82,15 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 
   # Iniciar o servidor
   $ cd server
-  $ npm run dev || yarn dev
+  $ npm run dev (ou yarn dev)
 
   # Iniciar a versão mobile
   $ cd mobile
-  $ npm start || yarn start
+  $ npm start (ou yarn start)
 
   # Iniciar a versão web
   $ cd web
-  $ npm start || yarn start
+  $ npm start (ou yarn start)
 
 ```
 
