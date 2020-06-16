@@ -72,7 +72,7 @@ Principais bibliotecas utilizadas (lista completa nas dependências listadas no 
 
 ```sh
   # Instalar as bibliotecas e as dependências
-  $ npm install (ou yarn install)
+  $ npm install (ou yarn)
 
   # Criar e popular o banco de dados
   $ cd server
