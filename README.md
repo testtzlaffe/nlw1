@@ -15,7 +15,8 @@
 <br>
 
 <div align="center">
-  [Sobre](#sobre) | [Tecnologias](#tecnologias) | [Rodando o projeto](#run) | [Contato](#contato)
+<a href="#sobre">Sobre</a> | 
+  
 </div>
 
 ## :bookmark_tabs: Índice
