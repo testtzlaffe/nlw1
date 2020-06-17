@@ -15,16 +15,9 @@
 <br>
 
 <div align="center">
-<a href="#sobre">Sobre</a> | 
+    <a href="#sobre">Sobre</a> | <a href="#tecnologias">Tecnologias</a> | <a href="#Rodando o projeto">Rodando o projeto</a> | <a href="#contato">Contato</a>
   
 </div>
-
-## :bookmark_tabs: Índice
-
-- [Sobre](#sobre)
-- [Tecnologias](#tecnologias)
-- [Rodando o projeto](#run)
-- [Contato](#contato)
 
 <a id="sobre"></a>
 
