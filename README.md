@@ -14,6 +14,10 @@
 </div>
 <br>
 
+<div align="center">
+  [Sobre](#sobre) | [Tecnologias](#tecnologias) | [Rodando o projeto](#run) | [Contato](#contato)
+</div>
+
 ## :bookmark_tabs: Índice
 
 - [Sobre](#sobre)
